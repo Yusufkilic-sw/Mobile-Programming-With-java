@@ -6,5 +6,8 @@ create a local data base.
 
 explorermateApplication shows how the data is dealt wih at the front end of the app. Android studio is used for front end.
 
+Application cycle shows the rotation within the app.
+
+Demo video shows the working process of the app.
 
 
